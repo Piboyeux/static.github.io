@@ -1,3 +1,12 @@
-h1 {
-  color: red;
-}
+.image blue 
+	{ margin-left: auto;
+ 	margin-right: auto;}
+
+ body {font-family: "arial";
+	text-align: center;
+	}
+
+ h1{color: #3e64ff;
+ 	font-size: 50px;}
+ h2{color: #5edfff;}
+ul {text-align: left;}
